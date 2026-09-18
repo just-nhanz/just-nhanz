@@ -36,6 +36,7 @@
 I view AI as a powerful force multiplier for software and data engineering, not a replacement for engineering fundamentals. By leveraging AI to automate boilerplate code and speed up prototyping, I free up my focus for what truly matters: designing robust system architectures, building scalable data pipelines, and maintaining code quality. For me, AI acts as a 24/7 pair-programmer—accelerating execution while leaving critical thinking, logic design, and final code review firmly in human hands.
 
 </details>
+
 ---
 
 ### 🛠️ Tech Stack & Tools
