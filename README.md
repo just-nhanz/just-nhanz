@@ -70,10 +70,11 @@ I view AI as a powerful force multiplier for software and data engineering, not 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=just-nhanz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=just-nhanz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=just-nhanz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=just-nhanz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-
 ---
 
 ### 📫 Connect with Me
