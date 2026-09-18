@@ -28,15 +28,9 @@
 
 ---
 
-<section>
-
-### How I work with AI
-
-> *"Everybody in the world is now a programmer. You just have to say something to the computer."* — **Jensen Huang**, CEO of NVIDIA
-
-I view AI as a powerful force multiplier for software and data engineering, not a replacement for engineering fundamentals. By leveraging AI to automate boilerplate code and speed up prototyping, I free up my focus for what truly matters: designing robust system architectures, building scalable data pipelines, and maintaining code quality. For me, AI acts as a 24/7 pair-programmer—accelerating execution while leaving critical thinking, logic design, and final code review firmly in human hands.
-
-</section>
+| ### 🤖 How I Work with AI |
+| :--- |
+| > *"Everybody in the world is now a programmer. You just have to say something to the computer."* — **Jensen Huang**, CEO of NVIDIA <br><br> I view AI as a powerful force multiplier for software and data engineering, not a replacement for engineering fundamentals. By leveraging AI to automate boilerplate code and speed up prototyping, I free up my focus for what truly matters: designing robust system architectures, building scalable data pipelines, and maintaining code quality. For me, AI acts as a 24/7 pair-programmer—accelerating execution while leaving critical thinking, logic design, and final code review firmly in human hands. |
 
 ---
 
