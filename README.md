@@ -9,7 +9,7 @@
 
   <!-- Badges -->
   <p>
-    <a href="www.linkedin.com/in/nhan-nguyen-b9702a398/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="www.linkedin.com/in/nhan-nguyen-b9702a398"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="nguyentrantrongnhan1110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
